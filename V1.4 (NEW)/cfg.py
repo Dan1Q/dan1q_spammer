@@ -1,0 +1,1 @@
+delay = 0.001  # infinity spamming mode delay
